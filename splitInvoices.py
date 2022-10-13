@@ -8,7 +8,7 @@ import fitz
 import glob
 import os
 
-
+ 
 # In[2]:
 
 
